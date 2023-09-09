@@ -1,0 +1,6 @@
+numpy
+onnx
+onnxruntime-gpu
+mnn
+opencv-python
+pandas
